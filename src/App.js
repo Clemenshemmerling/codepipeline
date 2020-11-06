@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         KOR
+         TEST KOR
         </a>
       </header>
     </div>
